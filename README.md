@@ -1,4 +1,4 @@
-# 情報工学科の紹介!!![http://www.takushoku-u.ac.jp](https://file%2B.vscode-resource.vscode-cdn.net/Users/takekouya/Desktop/literacy/clb2-2-G284752022/logo.png?version%3D1652691628909)
+# 情報工学科の紹介!!![](https://file%2B.vscode-resource.vscode-cdn.net/Users/takekouya/Desktop/literacy/clb2-2-G284752022/logo.png?version%3D1652691628909)
 <!-- Markdown記法を使って学科の紹介ページを作る -->
 #####コンピュータの基礎から、高度なプログラミングまで。 情報化社会をさらに進化させる、IT業界の新たなリーダーを育成。
 
@@ -42,5 +42,5 @@
 - [x] (番号無しの)リスト(unordered lists)を使っている．
 - [x] 1つ以上の画像(images)を使っている．
 - [x] 1つ以上のリンク(links)を使っている．
-- [ ] 1つ以上の表(tables)を使っている．
+- [x] 1つ以上の表(tables)を使っている．
 - [x] 1つ以上の絵文字を使っている．
